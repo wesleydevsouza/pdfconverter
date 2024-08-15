@@ -1,0 +1,34 @@
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\PDF Converter.exe
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\PDF Converter.deps.json
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\PDF Converter.runtimeconfig.json
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\PDF Converter.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\PDF Converter.pdb
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.Compression.Base.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.DocIO.Base.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.DocToPdfConverter.Base.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.OfficeChart.Base.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.Pdf.Base.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.SfSkinManager.WPF.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\Syncfusion.Themes.FluentDark.WPF.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.csproj.AssemblyReference.cache
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter_MarkupCompile.cache
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter_MarkupCompile.lref
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.g.resources
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.AssemblyInfoInputs.cache
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.AssemblyInfo.cs
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.csproj.CoreCompileInputs.cache
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.csproj.CopyComplete
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\refint\PDF Converter.dll
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.pdb
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\PDF Converter.genruntimeconfig.cache
+C:\Users\wesley.santiago\Documents\C#\PDF Converter\pdfconverter\PDF Converter\obj\Debug\net6.0-windows\ref\PDF Converter.dll

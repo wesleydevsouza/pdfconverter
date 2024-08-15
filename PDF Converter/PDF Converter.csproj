@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>PDF_Converter</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Convert Button Icon.png" />
+    <None Remove="Images\favicon.png" />
+    <None Remove="Images\Logo.png" />
+    <None Remove="Images\logo_150.png" />
+    <None Remove="Images\Select File Icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.DocToPDFConverter.Wpf" Version="26.2.8" />
+    <PackageReference Include="Syncfusion.Pdf.Wpf" Version="26.2.8" />
+    <PackageReference Include="Syncfusion.SfSkinManager.WPF" Version="26.2.8" />
+    <PackageReference Include="Syncfusion.Shared.WPF" Version="26.2.8" />
+    <PackageReference Include="Syncfusion.Themes.FluentDark.WPF" Version="26.2.8" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Convert Button Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\favicon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Logo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\logo_150.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Select File Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

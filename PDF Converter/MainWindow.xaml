@@ -1,0 +1,66 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PDF_Converter"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf" 
+        x:Class="PDF_Converter.MainWindow"
+        x:Name="myMainWindow"
+        mc:Ignorable="d"
+        Icon="/Images/favicon.png"
+        Title="Velvet PDF Converter" Height="300" Width="500">
+    <Grid>
+        <Grid.LayoutTransform>
+            <ScaleTransform x:Name="ApplicationScaleTransform"
+                            CenterX="0"
+                            CenterY="0"                            
+                      
+                            
+                            />
+        </Grid.LayoutTransform>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Image Grid.Column="1" Grid.Row="0" Margin="10,10,10,10" Source="/Images/Logo.png" 
+               HorizontalAlignment="Center" VerticalAlignment="Top" Width="156"/>
+
+        <Label x:Name="title" Grid.Column="1" Content="Select a File to convert" 
+               HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" HorizontalContentAlignment="Center" 
+               VerticalContentAlignment="Center" FontSize="16" FontWeight="Bold" Background="Transparent" Foreground="#FFFF0606"
+               Height="auto" Width="auto"/>
+
+        <syncfusion:ButtonAdv Content="Select Fie" SmallIcon="/Images/Select File Icon.png" 
+                              HorizontalAlignment="Left" Height="35" Label="Select File" Grid.Row="2"
+                              VerticalAlignment="Center" Width="115" Margin="10,10,10,10" Background="#FFBA70FB" Foreground="White"
+                              Click="SelectFile_Click"
+                              />
+
+        <TextBox x:Name="pathTextBox" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" TextWrapping="NoWrap" 
+                 VerticalAlignment="Center" Width="160" AcceptsReturn="False" Height="30"/>
+
+        <syncfusion:ComboBoxAdv x:Name = "conversionDropDown" AllowMultiSelect="False" Grid.Column="2" DefaultText="Select" 
+                                Height="30" Grid.Row="2" Width="115" Foreground="White" Background="#FFBA70FB" Margin="10,10,10,10">
+            <syncfusion:ComboBoxItemAdv Content="Doc to PDF"/>           
+        </syncfusion:ComboBoxAdv>
+
+        <syncfusion:ButtonAdv Content="Convert" SmallIcon="/Images/Convert Button Icon.png" 
+                              HorizontalAlignment="Center" Height="35" Label="Convert" Grid.Row="3"
+                              VerticalAlignment="Top" Width="115" Margin="0,28,0,0" Background="#FFBA70FB" Foreground="White" Grid.Column="1"
+                              Click="ConvertButton_Click"
+                              />
+
+
+    </Grid>
+</Window>

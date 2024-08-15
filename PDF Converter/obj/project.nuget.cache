@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgEbVnXM9B9MihrTLG4EwMXQB/yMIi1BVA7iOCDIoAUs5ISfxH/bBzBqHHQ55xBWlAaEqD+zCh1UoNG6kmlZDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wesley.santiago\\Documents\\C#\\PDF Converter\\pdfconverter\\PDF Converter\\PDF Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.compression.base\\26.2.8\\syncfusion.compression.base.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.docio.wpf\\26.2.8\\syncfusion.docio.wpf.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.doctopdfconverter.wpf\\26.2.8\\syncfusion.doctopdfconverter.wpf.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.licensing\\26.2.8\\syncfusion.licensing.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.officechart.base\\26.2.8\\syncfusion.officechart.base.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.pdf.wpf\\26.2.8\\syncfusion.pdf.wpf.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\26.2.8\\syncfusion.sfskinmanager.wpf.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.shared.wpf\\26.2.8\\syncfusion.shared.wpf.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\syncfusion.themes.fluentdark.wpf\\26.2.8\\syncfusion.themes.fluentdark.wpf.26.2.8.nupkg.sha512",
+    "C:\\Users\\wesley.santiago\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

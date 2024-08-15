@@ -1,0 +1,234 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PDF Converter/1.0.0": {
+        "dependencies": {
+          "Syncfusion.DocToPDFConverter.Wpf": "26.2.8",
+          "Syncfusion.Pdf.Wpf": "26.2.8",
+          "Syncfusion.SfSkinManager.WPF": "26.2.8",
+          "Syncfusion.Shared.WPF": "26.2.8",
+          "Syncfusion.Themes.FluentDark.WPF": "26.2.8",
+          "System.Drawing.Common": "8.0.7"
+        },
+        "runtime": {
+          "PDF Converter.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Syncfusion.Compression.Base/26.2.8": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.DocIO.Wpf/26.2.8": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "26.2.8",
+          "Syncfusion.Licensing": "26.2.8",
+          "Syncfusion.OfficeChart.Base": "26.2.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.DocIO.Base.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.DocToPDFConverter.Wpf/26.2.8": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "26.2.8",
+          "Syncfusion.DocIO.Wpf": "26.2.8",
+          "Syncfusion.Pdf.Wpf": "26.2.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.DocToPdfConverter.Base.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/26.2.8": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.OfficeChart.Base/26.2.8": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "26.2.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.OfficeChart.Base.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Wpf/26.2.8": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "26.2.8",
+          "Syncfusion.Licensing": "26.2.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.SfSkinManager.WPF/26.2.8": {
+        "dependencies": {
+          "Syncfusion.Licensing": "26.2.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/26.2.8": {
+        "dependencies": {
+          "Syncfusion.Licensing": "26.2.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "Syncfusion.Themes.FluentDark.WPF/26.2.8": {
+        "dependencies": {
+          "Syncfusion.Licensing": "26.2.8",
+          "Syncfusion.SfSkinManager.WPF": "26.2.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Themes.FluentDark.WPF.dll": {
+            "assemblyVersion": "26.2.8.0",
+            "fileVersion": "26.2.8.0"
+          }
+        }
+      },
+      "System.Drawing.Common/8.0.7": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31308"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDF Converter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9opKRyOKMCi2xJ7Bj7kxtZ1r9vbzosMvRrdEhVhDz8j8MoBGgB+WmC94yH839NPH+BclAjtQ/pyagvi/8gDLkw==",
+      "path": "microsoft.win32.systemevents/8.0.0",
+      "hashPath": "microsoft.win32.systemevents.8.0.0.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Base/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7QN7Zw6fE00WH1nMWKL6TW6g4K5ZkHOm38osMf1M0SP1ODV+mt+bVfZFqtQRerZpspNd5oiZgVdCbqSmpuWISQ==",
+      "path": "syncfusion.compression.base/26.2.8",
+      "hashPath": "syncfusion.compression.base.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.DocIO.Wpf/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W0zOJGwDniNu2Tt7kr61ED3GwVCvhuihTGAlcDcxgdBwkkHaU14PK+bBW+2NJt+FhrSTJoI36Ba5OrO+YL3z+g==",
+      "path": "syncfusion.docio.wpf/26.2.8",
+      "hashPath": "syncfusion.docio.wpf.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.DocToPDFConverter.Wpf/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FW1Zut2i0XJM3UoTnAO9dDNMm6HRbu7KeiZfF4OEQHgzh7liXzZARDrWDYxyvEROwD2FZOBQiTtDfrXNJdF7Uw==",
+      "path": "syncfusion.doctopdfconverter.wpf/26.2.8",
+      "hashPath": "syncfusion.doctopdfconverter.wpf.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2Kz7fFrzf0QECPbvwtmQjjYLXeMrfqw2MPhQ1BrDUS8orTjajQ+VDXzrSY+GuWv+qUxM77tMl/5u4YLtwi0bSw==",
+      "path": "syncfusion.licensing/26.2.8",
+      "hashPath": "syncfusion.licensing.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.OfficeChart.Base/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pzp8NTUnxCDOeiaEzA7CGbBOVlpWxOc5Rp0YSU6RqA+iumKEesV4t1hsEHZIUHdnittaW5GYDBJ7axFsvGGmRw==",
+      "path": "syncfusion.officechart.base/26.2.8",
+      "hashPath": "syncfusion.officechart.base.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Wpf/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qlklm8q2foX+ziaVH5FyiEi0MSaHPg18kKwFisEO9mea6aBoHKiJHk7eAmrzq8jmejoU6K/R5TgXXH6oz3Qy5w==",
+      "path": "syncfusion.pdf.wpf/26.2.8",
+      "hashPath": "syncfusion.pdf.wpf.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.SfSkinManager.WPF/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VngTEHoRUwTfSYI+N6NcAvtw2by6xkUCGb+HB3snh5x6nRtqxFtZNXm/7KMinoIvvJHl7qHjEPoP45cJkkDJ+w==",
+      "path": "syncfusion.sfskinmanager.wpf/26.2.8",
+      "hashPath": "syncfusion.sfskinmanager.wpf.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AhZWlVI0qpj2GGZlRDzlvL7mJiKgafmFf+Ojfc55VUEXMsZZnOU0vpOBTEl8VA+F1CLBg3wvZoopQ6olHfWTUA==",
+      "path": "syncfusion.shared.wpf/26.2.8",
+      "hashPath": "syncfusion.shared.wpf.26.2.8.nupkg.sha512"
+    },
+    "Syncfusion.Themes.FluentDark.WPF/26.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LW9XR6g0piODDH0ie5VYNgq7l8oGMFdVrDUxYe6uUgLMlXGTtizvSr4wpE23/TSZbZ3dXYE0HOdK+BaO+l5zbQ==",
+      "path": "syncfusion.themes.fluentdark.wpf/26.2.8",
+      "hashPath": "syncfusion.themes.fluentdark.wpf.26.2.8.nupkg.sha512"
+    },
+    "System.Drawing.Common/8.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DoeBae0gZvxs3mtfoub6F1k28fSkFPzmhFuvblplKMnLYKmTMVy0j4Yxahh96KM532JzHGDxhJn1VpMKSB1pyg==",
+      "path": "system.drawing.common/8.0.7",
+      "hashPath": "system.drawing.common.8.0.7.nupkg.sha512"
+    }
+  }
+}
