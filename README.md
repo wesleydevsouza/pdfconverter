@@ -1,4 +1,4 @@
-# 📄 DOC to PDF Converter (Flutter)
+# 📄 DOC to PDF Converter (C#)
 
 A simple **.doc to PDF** converter built using the **Syncfusion** library.
 
